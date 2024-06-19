@@ -1,0 +1,20 @@
+.full-height {
+    height: calc(100vh - 60px);
+}
+.iframe-container {
+    background-color: blue;
+    height: 100%;
+    width: 100%;
+}
+.text-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.content {
+    text-align: left;
+    word-break: break-word;
+}
+.container-fluid-separacao {
+    margin-top: 20px;
+}
